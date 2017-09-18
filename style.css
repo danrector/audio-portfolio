@@ -1,0 +1,7 @@
+body {
+  background-color: grey;
+  color: rgb(255, 195, 0);
+  font-family: sans-serif;
+
+  -webkit-text-stroke: .1px black
+}
